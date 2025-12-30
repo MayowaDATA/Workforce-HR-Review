@@ -72,3 +72,5 @@ The organization is facing a period of high employee turnover and stagnating pro
 ## Contact
 **Mayowa Adeboye** Email: Adeboyemayowa86@gmail.com  
 LinkedIn: [http://www.linkedin.com/in/mayowaadeboye](http://www.linkedin.com/in/mayowaadeboye)
+## Repository Link
+[View Project on GitHub](https://github.com/MayowaDATA/Workforce-HR-Review)
