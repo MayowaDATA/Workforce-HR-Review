@@ -29,7 +29,7 @@ The organization is facing a period of high employee turnover and stagnating pro
 ---
 
 ## Dashboard Features
-![Workforce HR Dashboard](Dashboard.png)
+![Workforce HR Dashboard](Dashboard2.png)
 * **Key KPIs:** Overall Attrition Rate, Average Satisfaction Score, Departmental Productivity, and Headcount Trends.
 * **Visual Insights:** * Comparison of Attrition by Department and Job Level.
     * Correlation between Monthly Income and Employee Retention.
